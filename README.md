@@ -26,3 +26,7 @@
 - Scoring percentage
 - Instant feedback
 - Hours of fun
+
+<h2>Conclusion</h2>
+
+<p> Sooo... how'd you do? Were you uninvited to Thanksgiving or did you own it like the Boss that you are? Well, no one recorded your results so you should be good either way... or did they?? 👀 🤣  Hope you enjoyed this quick and simple Python masterpiece. As always, Thanks for checking out this project and we'll see on the next one! 😎</p>
