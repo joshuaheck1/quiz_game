@@ -5,9 +5,9 @@
 
 
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <h2>Python Slot Machine</h2>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <h2>Python Quiz Game</h2>
 
-<p> I present to you my first Python project! This is the first of many Python projects to come as I dive in head first to learn this highly versatile programming language. The project is a simple text-base slot machine. I added some minor flair and cleaned up the spacing to make it a littler easier on the eyes. As I learn more about Python, I'll do another run at this project to see how far I can push it.
+<p> This a simple quiz to test your computer knowledge. Will you ace it? Or will you bring shame to your clan's name and be excommunicado? Ok, its not that serious but I hope you enjoy this Python mini project. Learning Python is fun! 😁
 <br />
 
 <h2>Environments and Technologies Used</h2>
@@ -21,3 +21,8 @@
 - macOS Sequoia
 
 <h2>Features</h2>
+
+- Five questions
+- Scoring percentage
+- Instant feedback
+- Hours of fun
